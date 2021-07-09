@@ -62,6 +62,7 @@ public class Arrays_Exercises {
 	
 //  Flowcharts 3
 //	
+//
 //	public static void main(String[] args) {
 //		
 //		repeat();
@@ -73,10 +74,14 @@ public class Arrays_Exercises {
 //          System.out.println(i + " " + i + " " + i + " " + i + " " + i + " " + i + " " + i + " " + i + " " + i + " " + i + " ");}
 //	}
 //	}
-	public static void name() {
-for (int i = 1; i <=10; i++)
-for (int j = 0; j < i; J++)
-private void sysout(i)
-	//	
-//	
+//	public static void main(String[] args) {
+//		
+//		name();
+//			}
+//	public static void name() {
+//		for (int i = 1; i <=10; i++)
+//			for (int j = 0; j < i; j++) 
+//				System.out.print(" " + i);
+//		}
+//}
 	
