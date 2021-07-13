@@ -17,6 +17,7 @@ public class Person_Challenge {
 		this.age = age;
 		this.job_title = job_title;
 	}
+	ArrayList<Person_Challenge> rugbyBoys = new ArrayList<>();
 
 	@Override
 	public String toString() {
@@ -42,16 +43,4 @@ public class Person_Challenge {
 	public String getJob_title() {
 		return job_title;
 	}
-
-	public void setJob_title(String job_title) {
-		this.job_title = job_title;
-		
-
-	}
-	for (Person_Challenge p : rugbyBoys) {
-	if (p.getName() == name);
-	System.out.println(p);
-}	
-	
-	
 }
