@@ -5,7 +5,7 @@ public class Loops_Exercises {
 	public static void main(String[] args) {
 		 
 		int a = 2000;
-//
+
 		switch (a) {
 		case 1:
 			if (a > 6000)
